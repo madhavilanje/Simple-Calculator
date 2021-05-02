@@ -19,6 +19,8 @@ Reffer Files:
 -activity_multiplication.xml
 -activity_division.xml
 
+-AndroidManifest.xml
+
 
 
 
