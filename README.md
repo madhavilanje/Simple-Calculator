@@ -1,1 +1,2 @@
 # Simple-Calculator
+THIS IS A SIMPLE CALCULATOR WITH FOUR OPERATIONS (+,-,*,/)
